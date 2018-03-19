@@ -3,6 +3,7 @@
 
 ## Instruction to run the program
 - In the root folder, run 'dotnet restore'
+- then enter the console app folder by 'cd LovelyCats.Directory'
 - then run 'dotnet run'
 
 ## Discussion
