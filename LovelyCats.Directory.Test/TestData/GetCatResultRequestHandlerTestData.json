@@ -14,9 +14,9 @@
     "expectedResults": {
       "femaleCatCount": 2,
       "maleCatCount": 0,
-      "firstFemaleName": "Kitty",
+      "firstFemaleName": "Jean",
       "firstMaleName": null,
-      "lastFemaleName": "Jean",
+      "lastFemaleName": "Kitty",
       "lastMaleName": null
     },
     "data": [
